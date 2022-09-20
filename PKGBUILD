@@ -2,14 +2,14 @@
 
 pkgname=libgw2dattools
 _pkgname=gw2dattools
-pkgver=1.0.r64.65e7244
+pkgver=1.0.r65.c1cc7cf
 pkgrel=1
 pkgdesc="Collection of tools to make building programs for the Guild Wars 2's dat file easier."
 arch=('x86_64')
 url="https://github.com/kytulendu/gw2dattools"
 license=(GPL)
 makedepends=(cmake)
-source=("git://github.com/kytulendu/gw2dattools.git")
+source=("git+https://github.com/kytulendu/gw2dattools.git")
 sha256sums=('SKIP')
 
 pkgver() {
