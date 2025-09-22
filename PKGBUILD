@@ -2,7 +2,7 @@
 
 pkgname=libgw2dattools
 _pkgname=gw2dattools
-pkgver=1.0.r72.131c0ae
+pkgver=1.0.r77.1c66a09
 pkgrel=1
 pkgdesc="Collection of tools to make building programs for the Guild Wars 2's dat file easier."
 arch=('x86_64')
